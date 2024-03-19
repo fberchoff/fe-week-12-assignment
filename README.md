@@ -11,14 +11,7 @@ This is a Pet Store application for the front end week #12 coding assignment.
 - Add an employee to a pet store.
 - Update the phone number of a pet store.
 - Delete a pet store.
-
-
-
-## Features
-
-- Create and delete students
-- Record classes that students are registered to. Each class includes the class name, section, professor, and grade.
-
+   
 
 ## Installation
 
